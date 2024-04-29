@@ -357,7 +357,9 @@
     margin-right: 20px; /* Adjust spacing between images */
   }
   
-
+.nav-menu-button {
+    display: none;
+}
   /* Mobile code */
   @media only screen and (max-width: 767px) {
     .navbar {
@@ -369,6 +371,7 @@
  
 /* Style for buttons */
 .nav-menu-button {
+    display: block;
   width: 100%; /* Make buttons occupy full width */
 }
     .nav-buttons {
