@@ -458,7 +458,7 @@
   }
 
   @media only screen and (min-width: 481px) {
-    .mobile-navbar {
+    .nav-menu-button {
       display: none;
     }
   }
