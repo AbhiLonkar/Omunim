@@ -366,17 +366,7 @@
       padding-right: 10px; /* Right padding */
       height: auto;
     }
-      .navbar-nav-links {
-  display: flex;
-  width: 100%;
-  justify-content: space-between; /* Ensure equal space between buttons */
-}
-
-/* Style for nav-item */
-.nav-item {
-  flex: 1; /* Each nav-item will occupy equal space */
-}
-
+ 
 /* Style for buttons */
 .nav-menu-button {
   width: 100%; /* Make buttons occupy full width */
